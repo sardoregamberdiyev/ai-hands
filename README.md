@@ -6,7 +6,7 @@ Bu loyiha **Python + MediaPipe + OpenCV** yordamida yaratilgan oddiy va samarali
 
 > Quyida loyiha ish jarayonidan olingan rasm
 
-![Hand Finger Counter Preview](assets/preview.png)
+![Hand Finger Counter Preview](ai-hands/ai-test-image.png)
 
 
 Loyiha asosan:
