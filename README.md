@@ -2,6 +2,13 @@
 
 Bu loyiha **Python + MediaPipe + OpenCV** yordamida yaratilgan oddiy va samarali **AI demo** bo‘lib, kamera orqali **qo‘ldagi barmoqlar sonini real vaqtda aniqlaydi**.
 
+## 📸 Preview (Screenshot)
+
+> Quyida loyiha ish jarayonidan olingan rasm
+
+![Hand Finger Counter Preview](assets/preview.png)
+
+
 Loyiha asosan:
 - AI demo qilish
 - Computer Vision asoslarini tushuntirish
