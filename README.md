@@ -10,8 +10,8 @@ Bu loyiha **Python + MediaPipe + OpenCV** yordamida yasalgan, oddiy va samarali 
 
 
 Loyiha asosan:
-- AI Test uchun qilish
-- Ai ga endi kirayotganlar uchun mustaqil qilinsa, 
+- Test uchun AI
+- AI ga endi kirayotganlar uchun mustaqil qilinsa, 
 ancha yordam beradi
 
 ---
